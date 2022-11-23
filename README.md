@@ -22,11 +22,17 @@
 
 ### Developer Comments:
 > **"But can you write a Chess AI in it?" - Dan Brown**
+
 > **"Wrote a 4D engine with this last night." - Ross Hutchins**
+
 > **"Doesn't include machine learning module, thumbs down." - Conrad Smith**
+
 > **"Might even be better than C#" - Jon Fieldhouse**
+
 > **"Syntax too confusing, gave up." - James Lacey**
+
 > **"Yeet. Enough said." - Jon Gilmour**
+
 > **"I'll check it out." - Craig Zeki**
 
 
