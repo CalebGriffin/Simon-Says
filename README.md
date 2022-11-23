@@ -1,5 +1,4 @@
 # **Simon-Says**
----
 ## The Brand New "Theoretical" Esoteric Programming Language
 
 ###### Simon Says is a _theoretical_ imperative esoteric programming language that is compiled to C and then to machine code.
